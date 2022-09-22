@@ -1,0 +1,11 @@
+{
+  "name": "fp",
+  "version": "0.0.0",
+  "description": "fp practice",
+  "author": "miracles",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "ramda": "^0.28.0"
+  }
+}
